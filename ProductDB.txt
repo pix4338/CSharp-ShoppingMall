@@ -1,0 +1,43 @@
+USE [MYDB]
+GO
+
+/****** Object:  Table [dbo].[TB_PRODUCT]    Script Date: 2020-06-08 ¿ÀÈÄ 12:39:52 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[TB_PRODUCT](
+	[Isbn] [int] NOT NULL,
+	[Date] [date] NOT NULL,
+	[Category] [varchar](15) NOT NULL,
+	[Product_Name] [varchar](35) NOT NULL,
+	[Size] [varchar](3) NOT NULL,
+	[Color] [varchar](15) NOT NULL,
+	[Count] [int] NOT NULL,
+	[Originalprice] [int] NOT NULL,
+	[Originalprice_x_Count] [int] NOT NULL,
+	[Cigar] [int] NOT NULL,
+	[Cigar_x_Count] [int] NOT NULL,
+	[NetProfit] [int] NOT NULL,
+	[Stock] [int] NOT NULL,
+	[Img_Name1] [varchar](35) NULL,
+	[Img_Name2] [varchar](35) NULL,
+	[Img_Size] [varchar](35) NULL,
+	[Explanation] [varchar](500) NULL,
+ CONSTRAINT [PK_TB_PRODUCT] PRIMARY KEY CLUSTERED 
+(
+	[Isbn] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+

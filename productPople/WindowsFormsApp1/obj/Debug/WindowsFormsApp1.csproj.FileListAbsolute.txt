@@ -1,0 +1,104 @@
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductModefi_Form.resources
+Z:\공부\C#\sql_과제\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductModefi_Form.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Product.resources
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\공부\C#\sql_과제\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyInformationForm.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductListForm.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyInformationForm.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Product.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductModefi_Form.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\새 폴더\product\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Purchase.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductListForm.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyInformationForm.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Product.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MypageForm.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductModefiForm.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PurchaseForm.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductUpdateForm.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductUpdateForm2.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.memberShepForm.resources
+Z:\공부\C#\sql_과제\새 폴더\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyProductSelectForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MemberShepForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MypageForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyProductSelectForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductListForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyInformationForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Product.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductModefiForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductUpdateForm2.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductUpdateForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PurchaseForm.resources
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\공부\C#\sql_과제\productPople\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
