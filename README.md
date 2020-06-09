@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/62654187/84113327-530cfb80-aa65-11ea-9b1c-d5c8f46bdb2c.png)
 ### 상품 재고,원가,시가 수정 화면
 ![image](https://user-images.githubusercontent.com/62654187/84113445-8c456b80-aa65-11ea-9933-16fbfdb7dfe3.png)    
-PDF문서 https://drive.google.com/file/d/15ThY0zTzjADgF_VXWc03kzbImVCFPnwX/view?usp=sharing
+PDF문서 https://drive.google.com/file/d/1Wd4ZnT6HeiIaIhyV5ABGKSE630DrUY7c/view?usp=sharing
 
 
 
